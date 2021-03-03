@@ -110,7 +110,7 @@
                             <img src="https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/Y6AAKY3FIZBD5CTIFQJP2GZRHA.png" alt="Jenali Gibson">
                         </div>
                         <div class="bio-words">
-                            <p><strong>Jenali Gibson </strong>is the lead reporter for Cannabis Insider. He previously covered gun violence for the Kansas City Star.</p>
+                            <p><strong>Jelani Gibson </strong>is the lead reporter for Cannabis Insider. He previously covered gun violence for the Kansas City Star.</p>
                             <div class="social-items">
                                 <a href="https://twitter.com/JelaniGibson1">
                                     <img src="/pf/resources/images/common/social/twitter.svg?d=446">
@@ -152,7 +152,7 @@
                             <img src="https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/DCJLOBTUZVANTCUMHUX2YSMHOU.png" alt="Susan Livio">
                         </div>
                         <div class="bio-words">
-                        <p><strong>Susan Livio </strong> is a Statehouse reporter for The Star-Ledger and NJ.com who covers health, social policy and politics </p>  
+                        <p><strong>Susan K. Livio </strong> is a Statehouse reporter for The Star-Ledger and NJ.com who covers health, social policy and politics </p>  
                             <div class="social-items">
                                 <a href="https://twitter.com/SusanKLivio">
                                     <img src="/pf/resources/images/common/social/twitter.svg?d=446">
@@ -173,7 +173,7 @@
                             <img src="https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/5FCZEORPAFDM7BOTXUOOASAJCE.JPG" alt="Jonathan Salant">
                         </div>
                         <div class="bio-words">
-                            <p><strong>Johnatan D. Salant </strong> is Washington correspondent for The Star-Ledger and NJ.com. </p>
+                            <p><strong>Jonathan D. Salant </strong> is Washington correspondent for The Star-Ledger and NJ.com. </p>
                             <div class="social-items">
                                 <a href="https://twitter.com/JDSalant">
                                     <img src="/pf/resources/images/common/social/twitter.svg?d=446">
